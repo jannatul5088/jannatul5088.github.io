@@ -1,13 +1,14 @@
 
+
 Md Jannatul Nayem
 ===
 #### Third year computer science student.
 
 Contact Information
 ---
-Email: nayemm1999@gmail.com\
-Website: [mdjannatulnayem.com](https://jannatul5088.github.io/)\
-Github: [jannatul5088](https://github.com/jannatul5088)\
+Email: nayemm1999@gmail.com
+Website: [mdjannatulnayem.com](https://jannatul5088.github.io/)
+Github: [jannatul5088](https://github.com/jannatul5088)
 LinkedIn: [Md Jannatul Nayem](https://www.linkedin.com/in/md-jannatul-nayem-79844b180/)
 
 Education
@@ -47,5 +48,6 @@ Volunteering Experience
 ---
 * Served at MSA club to deliver food
 * Served as international center brand ambassador for orientation
+
 
 
