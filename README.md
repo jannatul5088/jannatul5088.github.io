@@ -17,8 +17,8 @@ Instructions
 	3. Name the repository as your username.github.io.
 		> :warning: Verify that the username is same as your GitHub user name to work.
 	4. Make your repository public by selecting the public option.
-	5. Scroll down and you can select off add a README file for now.
-	6. Scroll down and choose a licence.
+	5. Scroll down to select off add a README file for now.
+	6. Scroll down to choose a licence.
 	7. Click on create repository. ![Create Repo](https://github.com/jannatul5088/jannatul5088.github.io/blob/main/images/createRepo.png)
 * **Add your files to your repository.**
 	1. Click on add a file. ![Upload Repo](https://github.com/jannatul5088/jannatul5088.github.io/blob/main/images/uploadFile.png)
@@ -29,7 +29,7 @@ Instructions
 * **Create a static website using Jekyll theme.**
 	1. Click on settings. ![Settings Option](https://github.com/jannatul5088/jannatul5088.github.io/blob/main/images/settings.png)
 	2. Go to pages.
-	3. Click on source and set the branch to main.
+	3. Click on source to set the branch to main.
 	4. Click on save option.
 	5. Click on theme which will navigate to a page having a wide range of themes. ![Choose Theme](https://github.com/jannatul5088/jannatul5088.github.io/blob/main/images/chooseTheme.png)
 	6. Choose your desired theme for your resume. ![Select Theme](https://github.com/jannatul5088/jannatul5088.github.io/blob/main/images/selectTheme.png)
