@@ -40,7 +40,7 @@ Instructions
 	11. Type https://username.github.io/ to see the static website.
 > This will make a static website for you. Andrew Etter mentioned in his book that using Jekyll as a static site generator makes the Markdown content attractive. You can see an elegant site from your markdown contents.
 
-Your final resume should look like this website.
+**Your final resume should look like this website.**
 
 More resources
 ---
@@ -51,11 +51,11 @@ More resources
 
 Authors and Acknowledgments
 ---
-This article is written by [Md Jannatul Nayem]().
+This article is written by [Md Jannatul Nayem](https://github.com/jannatul5088/jannatul5088.github.io).
 Credits:
 * Etter, Andrew. [Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS), 2019.
 * [Dinky](https://pages-themes.github.io/dinky/) Jekyll Theme
-* My group members: Benjamin Zhou, Syed Ali Ahsen Muhammad Jafry, Minh Nam Hai Nguyen, Akashdeep Singh.
+* My group members: Benjamin Zhou, Syed Ali Ahsen Muhammad Jafry, Minh Nam Hai Nguyen, and Akashdeep Singh.
 
 FAQ
 ---
