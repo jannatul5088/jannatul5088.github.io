@@ -12,7 +12,7 @@ First of all, you need to have a markdown-formatted resume. *Markdown* is a ligh
 Instructions
 ---
 * **Create a repository on GitHub.**
-	1. Click on the "*+*" sign to the left of the profile logo on the top right corner.
+	1. Click on the "*+*" sign to the left of the profile logo on the top right corner.\ ![New Rwpo](https://github.com/jannatul5088/jannatul5088.github.io/blob/main/images/newRepo.png)
 	2. Click on new repository.
 	3. Name the repository as your username.github.io.
 		> :warning: Verify that the username is same as your GitHub user name to work.
