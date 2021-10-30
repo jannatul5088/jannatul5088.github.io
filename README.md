@@ -53,7 +53,7 @@ More resources
 Authors and Acknowledgments
 ---
 This article is written by [Md Jannatul Nayem](https://github.com/jannatul5088/jannatul5088.github.io).
-Credits:
+Special thanks to:
 * Etter, Andrew. [Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS), 2019.
 * [Dinky](https://pages-themes.github.io/dinky/) Jekyll Theme
 * My group members: Benjamin Zhou, Syed Ali Ahsen Muhammad Jafry, Minh Nam Hai Nguyen, and Akashdeep Singh.
