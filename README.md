@@ -12,29 +12,29 @@ First of all, you need to have a markdown-formatted resume. *Markdown* is a ligh
 Instructions
 ---
 * **Create a repository on GitHub.**
-	1. Click on the "*+*" sign to the left of the profile logo on the top right corner.\ ![New Rwpo](https://github.com/jannatul5088/jannatul5088.github.io/blob/main/images/newRepo.png)
+	1. Click on the "*+*" sign to the left of the profile logo on the top right corner. ![New Repo](https://github.com/jannatul5088/jannatul5088.github.io/blob/main/images/newRepo.png)
 	2. Click on new repository.
 	3. Name the repository as your username.github.io.
 		> :warning: Verify that the username is same as your GitHub user name to work.
 	4. Make your repository public by selecting the public option.
 	5. Scroll down and you can select off add a README file for now.
 	6. Scroll down and choose a licence.
-	7. Click on create repository.
+	7. Click on create repository. ![Create Repo](https://github.com/jannatul5088/jannatul5088.github.io/blob/main/images/createRepo.png)
 * **Add your files to your repository.**
-	1. Click on add a file.
+	1. Click on add a file. ![Upload Repo](https://github.com/jannatul5088/jannatul5088.github.io/blob/main/images/uploadFile.png)
 	2. Drop your markdown-formatted resume and a README, if you have one, on the drop box.
 	3. Add a title in the commit box.
-	4. Click on commit changes button.
+	4. Click on commit changes button. ![Upload File](https://github.com/jannatul5088/jannatul5088.github.io/blob/main/images/dropFile.png)
 > Andrew Etter mentioned the benefits of using *Markdown* language. It can always sync with your latest version of work. It can have multiple version control for your resume to be updated and formatted. It enables contribution to a very convenient process.
 * **Create a static website using Jekyll theme.**
-	1. Click on settings.
+	1. Click on settings. ![Settings Option](https://github.com/jannatul5088/jannatul5088.github.io/blob/main/images/settings.png)
 	2. Go to pages.
 	3. Click on source and set the branch to main.
 	4. Click on save option.
-	5. Click on theme which will navigate to a page having a wide range of themes.
-	6. Choose your desired theme for your resume.
+	5. Click on theme which will navigate to a page having a wide range of themes. ![Choose Theme](https://github.com/jannatul5088/jannatul5088.github.io/blob/main/images/chooseTheme.png)
+	6. Choose your desired theme for your resume. ![Select Theme](https://github.com/jannatul5088/jannatul5088.github.io/blob/main/images/selectTheme.png)
 	7. Add a title in the commit box.
-	8. Click on commit changes button.
+	8. Click on commit changes button. ![Final Repo](https://github.com/jannatul5088/jannatul5088.github.io/blob/main/images/finalRepo.png)
 	9. Go to your repository.
 	10. Select the _config.yml file and add tile: Resume to change the title.
 	11. Type https://username.github.io/ to see the static website.
