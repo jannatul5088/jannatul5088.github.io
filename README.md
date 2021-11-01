@@ -3,11 +3,11 @@ How to host and upload a resume on GitHub
 
 Purpose
 ---
-This README file demonstrates the steps required to host and format an online resume in the *GitHub* repository. These steps consist of a light markup language-*Markdown*, a text editor-*Atom*, and a static site generator-*Jekyll*. It also shows how to host on a DVS (Distributed Control System), *GitHub*.
+This README file demonstrates the steps required to host and format an online resume in the *GitHub* repository. These steps consist of a light markup language, a text editor, and a static site generator. We will be using *Markdown*, *Atom*, and *Jekyll*. It also shows how to host on a DVS (Distributed Control System), *GitHub*.
 
 Prerequisites
 ---
-First of all, you need to have a markdown-formatted resume. *Markdown* is a lightweight markup language that allows documenting texts. There is a resource about markdown under More Resources. Andrew Etter explained the benefits of using markdown in his book. They are widely used and have clean syntax. They are convenient for people to contribute. Due to their popularity, there are many text editors available. *Atom* is an excellent editor for this. They have a live preview which makes the process easier. You also need to have a *GitHub* account. It is a distributed version control system to host a static site.
+First of all, you need to have a markdown-formatted resume. *Markdown* is a lightweight markup language that allows documenting texts. There is a resource about markdown under More Resources. Andrew Etter explained the benefits of using markdown in his book. They are widely used and have clean syntax, and are convenient for people to contribute to. Due to their popularity, there are many text editors available. *Atom* is an excellent editor for this. They have a live preview which makes the process easier. You also need to have a *GitHub* account, which is a distributed version control system to host a static site.
 
 Instructions
 ---
@@ -15,9 +15,9 @@ Instructions
 	1. Click on the "*+*" sign to the left of the profile logo on the top right corner. ![New Repo](https://github.com/jannatul5088/jannatul5088.github.io/blob/main/images/newRepo.png)
 	2. Click on new repository.
 	3. Name the repository as your username.github.io.
-		> :warning: Verify that the username is same as your GitHub user name to work.
+		> :warning: Verify that the username is the same as your GitHub username to work.
 	4. Make your repository public by selecting the public option.
-	5. Scroll down to select off add a README file for now.
+	5. Scroll down to uncheck add a README file for now.
 	6. Scroll down to choose a licence.
 	7. Click on create repository. ![Create Repo](https://github.com/jannatul5088/jannatul5088.github.io/blob/main/images/createRepo.png)
 * **Add your files to your repository.**
@@ -25,20 +25,21 @@ Instructions
 	2. Drop your markdown-formatted resume and a README, if you have one, on the drop box.
 	3. Add a title in the commit box.
 	4. Click on commit changes button. ![Upload File](https://github.com/jannatul5088/jannatul5088.github.io/blob/main/images/dropFile.png)
-> Andrew Etter mentioned the benefits of using *Markdown* language. It can always sync with your latest version of work. It can have multiple version control for your resume to be updated and formatted. It enables contribution to a very convenient process.
+> Andrew Etter mentioned the benefits of using *Markdown* language. It can always sync with your latest version of work. It can have multiple version control for your resume to be updated and formatted. It makes contribution very convenient.
 * **Create a static website using Jekyll theme.**
 	1. Click on settings. ![Settings Option](https://github.com/jannatul5088/jannatul5088.github.io/blob/main/images/settings.png)
 	2. Go to pages.
 	3. Click on source to set the branch to main.
 	4. Click on save option.
-	5. Click on theme which will navigate to a page having a wide range of themes. ![Choose Theme](https://github.com/jannatul5088/jannatul5088.github.io/blob/main/images/chooseTheme.png)
-	6. Choose your desired theme for your resume. ![Select Theme](https://github.com/jannatul5088/jannatul5088.github.io/blob/main/images/selectTheme.png)
-	7. Add a title in the commit box.
-	8. Click on commit changes button. ![Final Repo](https://github.com/jannatul5088/jannatul5088.github.io/blob/main/images/finalRepo.png)
-	9. Go to your repository.
-	10. Select the _config.yml file and add tile: Resume to change the title.
-	11. Type https://username.github.io/ to see the static website.
-> This will make a static website for you. Andrew Etter mentioned in his book that using Jekyll as a static site generator makes the Markdown content attractive. You can see an elegant site from your markdown contents.
+	5. Click on choose a theme which will navigate to a page having a wide range of themes. ![Choose Theme](https://github.com/jannatul5088/jannatul5088.github.io/blob/main/images/chooseTheme.png)
+	6. Choose your desired theme for your resume.
+	7. Click on select theme. ![Select Theme](https://github.com/jannatul5088/jannatul5088.github.io/blob/main/images/selectTheme.png)
+	8. Add a title in the commit box.
+	9. Click on commit changes button. ![Final Repo](https://github.com/jannatul5088/jannatul5088.github.io/blob/main/images/finalRepo.png)
+	10. Go to your repository.
+	11. Select the _config.yml file and add tile: Resume to change the title.
+	12. Type https://username.github.io/ to see the static website.
+> This will make a static website for you. Andrew Etter mentioned in his book that using Jekyll as a static site generator makes the Markdown content attractive. You can see an elegant site from your markdown contents. He also stated that moving the entire website is simple too as it does not depend on any third party application or database.
 
 **Your final resume should look like this website.**\
 ![gif](https://media.giphy.com/media/BKidylGsLhMkP7YKdR/giphy.gif)
@@ -61,6 +62,6 @@ Special thanks to:
 FAQ
 ---
 1. Why is Markdown better than a word processor?
-> Markdown is free to use. It has a cleaner syntax and is simply making developers interested to contribute. It can always stay up-to-date by syncing. Moreover, it allows the separation of content and style, of HTML and CSS.
+> Markdown is free to use. It has a cleaner syntax and is simply making developers interested in contributing. It can always stay up-to-date by syncing. Moreover, it allows the separation of content and style, of HTML and CSS.
 2. Why is my resume not showing up?
-> GitHub pages, sometimes, take time to generate. You might verify if the username and the link provided are correct and check again for the published site after some interval. 
+> GitHub pages, sometimes, take time to generate. You might verify if the username and the link provided are correct and check again for the published site after some time. 
