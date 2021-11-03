@@ -11,7 +11,19 @@ First of all, you need to have a markdown-formatted resume. *Markdown* is a ligh
 
 Instructions
 ---
-1. **Create a repository on GitHub.**
+1. **Create a GitHub account.**
+	1. Click on Sign up button if you do not have an account.
+	2. Enter your email.
+	3. Click on continue.
+	4. Create a password.
+	5. Click on continue.
+	6. Enter your user name.
+	7. Click on continue.
+	8. Verify your account by solving a puzzle.
+	9. Click on create account.
+	10. Enter the verification code that is sent to your email.
+	11. Click on continue and you will see your dashboard.
+2. **Create a repository on GitHub.**
 	1. Click on the "*+*" sign to the left of the profile logo on the top right corner. ![New Repo](https://github.com/jannatul5088/jannatul5088.github.io/blob/main/images/newRepo.png)
 	2. Click on new repository.
 	3. Name the repository as your username.github.io.
@@ -20,13 +32,13 @@ Instructions
 	5. Scroll down to uncheck add a README file for now.
 	6. Scroll down to choose a licence.
 	7. Click on create repository. ![Create Repo](https://github.com/jannatul5088/jannatul5088.github.io/blob/main/images/createRepo.png)
-2. **Add your files to your repository.**
+3. **Add your files to your repository.**
 	1. Click on add a file. ![Upload Repo](https://github.com/jannatul5088/jannatul5088.github.io/blob/main/images/uploadFile.png)
 	2. Drop your markdown-formatted resume and a README, if you have one, on the drop box.
 	3. Add a title in the commit box.
 	4. Click on commit changes button. ![Upload File](https://github.com/jannatul5088/jannatul5088.github.io/blob/main/images/dropFile.png)
 > Andrew Etter mentioned the benefits of using *Markdown* language. It can always sync with your latest version of work. It can have multiple version control for your resume to be updated and formatted. It makes contribution very convenient. It is commonly used by developers.
-3. **Create a static website using Jekyll theme.**
+4. **Create a static website using Jekyll theme.**
 	1. Click on settings. ![Settings Option](https://github.com/jannatul5088/jannatul5088.github.io/blob/main/images/settings.png)
 	2. Go to pages.
 	3. Click on source to set the branch to main.
